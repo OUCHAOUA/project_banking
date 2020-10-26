@@ -1,4 +1,8 @@
-# **Études de cas :** 
+# PROJET FIN D'ETUDE : GOMYCODE
+
+# **Études de cas :**
+
+
 
 ## **Campagne de marketing direct (via téléphone) d'une institution bancaire purtugaise**
 
